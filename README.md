@@ -27,7 +27,7 @@ It displays artworks data fetched from a public API using a **PrimeReact DataTab
 - `place_of_origin`
 - `artist_display`
 - `inscriptions`
-- `date_start`
+- `date_start `
 - `date_end`
 
 ---
